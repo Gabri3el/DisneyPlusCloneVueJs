@@ -2,7 +2,7 @@
 <p align="center">Intermediate challenge </p>
 
 <h1 align="center">
-<a href="./src/assets/DisneyPlusClone.png">
+<a href="/src/assets/DisneyPlusClone.png">
 </h1>
 
 <h1 align="center">
