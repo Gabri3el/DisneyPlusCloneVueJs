@@ -1,10 +1,6 @@
 <h1 align="center">Disney + Clone UI| VueJS </h1>
 <p align="center">Intermediate challenge </p>
-
-<h1 align="center">
-<a href="/src/assets/DisneyPlusClone.png">
-</h1>
-
+<img src="https://user-images.githubusercontent.com/62441006/120034814-fb4c0500-bfd3-11eb-922e-a86a16f7d2c0.png">
 <h1 align="center">
     <a href="https://cli.vuejs.org/">🔗  VueJs</a>
 </h1>
